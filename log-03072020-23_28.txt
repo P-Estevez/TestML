@@ -1,0 +1,259 @@
+*******************************************************************************
+Seller ID: 123154856
+*******************************************************************************
+*******************************************************************************
+Seller ID: 179571326
+*******************************************************************************
+Item ID: MLA863267784
+Item Title: Monitor Dell P2018h Led 19.5  Negro 110v/220v
+Category ID: MLA14407
+Category ID: MLA-COMPUTER_MONITORS
+---------------------------------------------------------------------------
+Item ID: MLA852423966
+Item Title: Router Cisco Rv042g Negro
+Category ID: MLA430901
+Category ID: MLA-ROUTERS
+---------------------------------------------------------------------------
+Item ID: MLA866032289
+Item Title: Router, Access Point Linksys Max-stream Ea9500 Negro 100/240v
+Category ID: MLA430901
+Category ID: MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+---------------------------------------------------------------------------
+Item ID: MLA827806651
+Item Title: Pc Dell Optiplex I5 8gb 1tb Win10p + Monitor P2018h 3 Gtias
+Category ID: MLA1649
+Category ID: MLA-DESKTOP_COMPUTERS
+---------------------------------------------------------------------------
+Item ID: MLA850688285
+Item Title: Notebook Dell Inspiron I5 256ssd + 1tb 16gb W10 Gforce Ram
+Category ID: MLA1652
+Category ID: MLA-NOTEBOOKS
+---------------------------------------------------------------------------
+Item ID: MLA609550688
+Item Title: Ups Apc Easy 500va Estabilizador Y Protector De Tension Con Ahorro De Energia Gtia Oficial 2 Años
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA625205834
+Item Title: Ups Apc 800va 6 T Estabilizador Y Protector De Tension Gtia Oficial 2 Años Bx800 Para Tv, Play, Equipos De Audio
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA740540307
+Item Title: Servidor Poweredge Dell T40 Xeon E3-1225 8gb 1tb Hd Free Dos
+Category ID: MLA1649
+Category ID: MLA-DESKTOP_COMPUTERS
+---------------------------------------------------------------------------
+Item ID: MLA723629779
+Item Title: Notebook Dell Vostro I5 14 8g 256ssd Win10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B
+Category ID: MLA1652
+Category ID: MLA-NOTEBOOKS
+---------------------------------------------------------------------------
+Item ID: MLA614270244
+Item Title: Ups Apc 1000va Para Pc Gamer Simil Bx1100 Bv1000i-ar Estabilizador Y Protector De Tension Gtia Oficial 2 Años
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA619999038
+Item Title: Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Con Ahorro De Energia
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA614718493
+Item Title: Ups Apc Bx1100ci Para Tv, Play, Audio, 6 Tomas Estabilizador
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA861373243
+Item Title: Servidor Rack Dell Poweredge R240 Xeon 32gb 4tb Gtia Cuotas
+Category ID: MLA1649
+Category ID: MLA-DESKTOP_COMPUTERS
+---------------------------------------------------------------------------
+Item ID: MLA685442693
+Item Title: Switch Cisco 24 Puertos Gigabit Rack 10/100/1000
+Category ID: MLA1708
+Category ID: MLA-NETWORK_SWITCHES
+---------------------------------------------------------------------------
+Item ID: MLA663219401
+Item Title: Notebook Dell I5 8gb Ssd 256gb 13,3 Win10
+Category ID: MLA1652
+Category ID: MLA-NOTEBOOKS
+---------------------------------------------------------------------------
+Item ID: MLA846968526
+Item Title: Ups Apc Bv1000 Estabilza Y Protege Tensión Entrega Inmediata
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA862050665
+Item Title: Servidor Poweredge Dell T40 Intel E3-2224 16gb 1tb Hd Cuotas
+Category ID: MLA1649
+Category ID: MLA-DESKTOP_COMPUTERS
+---------------------------------------------------------------------------
+Item ID: MLA846965428
+Item Title: Ups Apc Bv500 Estabilizador Protector Tension Entreg Inmedit
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA839633052
+Item Title: Ups Apc Easy Bv500i-ar 500va Bv500 Gtia Oficial 2 Años
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA812493388
+Item Title: Notebook Dell Vostro I5 14 8g 256ssd Win10 Pro Teclado Con Ñ Gtia De Tienda Oficial - Factura A Y B
+Category ID: MLA1652
+Category ID: MLA-NOTEBOOKS
+---------------------------------------------------------------------------
+Item ID: MLA863062405
+Item Title: Router Wifi Linksys Dualband 600mbps Usb  Entrega Inmediata
+Category ID: MLA430901
+Category ID: MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+---------------------------------------------------------------------------
+Item ID: MLA800416106
+Item Title: Servidor Dell Poweredge R440 Xeon 16gb 2tb Gtia 3 Años
+Category ID: MLA1649
+Category ID: MLA-DESKTOP_COMPUTERS
+---------------------------------------------------------------------------
+Item ID: MLA620000215
+Item Title: Router Wifi Linksys Dual Band 2 Antenas Usb 3.0 Conectar Equipos De Hogar Y Empresas Gtia Oficial  Factura A Y B
+Category ID: MLA430901
+Category ID: MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+---------------------------------------------------------------------------
+Item ID: MLA859898732
+Item Title: Switch Cisco Semi Admin 24 Puertos 10/100 2 Giga Sf220-24-k9
+Category ID: MLA1708
+Category ID: MLA-NETWORK_SWITCHES
+---------------------------------------------------------------------------
+Item ID: MLA850882801
+Item Title: Notebook Lenovo 15,6 I3 8gb 1tb Free Dos + Mouse Cuotas Ram
+Category ID: MLA1652
+Category ID: MLA-NOTEBOOKS
+---------------------------------------------------------------------------
+Item ID: MLA830836209
+Item Title: Servidor Poweredge Dell T40 Intel E3-2224 8gb 1tb Hd Cuotas
+Category ID: MLA1649
+Category ID: MLA-DESKTOP_COMPUTERS
+---------------------------------------------------------------------------
+Item ID: MLA609116302
+Item Title: Ups Apc 1500va Con Ahorro De Energa Estabilizador Y Protector De Tension Gtia Oficial Ideal Para Uso Gamer
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA812781294
+Item Title: Notebook Dell Vostro I5 16gb 256ssd 14hd Win10 Profesional
+Category ID: MLA1652
+Category ID: MLA-NOTEBOOKS
+---------------------------------------------------------------------------
+Item ID: MLA689148569
+Item Title: Switch 8 Bocas Cisco 8 Puertos 10/100mbps Para Hogar Y Empresa - Garantia Oficial - Factura A Y B
+Category ID: MLA1708
+Category ID: MLA-NETWORK_SWITCHES
+---------------------------------------------------------------------------
+Item ID: MLA863060151
+Item Title: Router Wifi Linksys Ea6100 Dualband Usb 3.0 Control Parental
+Category ID: MLA430901
+Category ID: MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+---------------------------------------------------------------------------
+Item ID: MLA673321805
+Item Title: Ups Apc 1500va Estabilizador Y Protector De Tension - Alto Rendimiento Para Pc De Hogar Y Oficina Gtia 2años
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA697896424
+Item Title: Pc Dell Optiplex Ssf I5 8gb 1tb Win10pro 3 Años Gtía Ram
+Category ID: MLA1649
+Category ID: MLA-DESKTOP_COMPUTERS
+---------------------------------------------------------------------------
+Item ID: MLA850847234
+Item Title: Notebook Dell I5 8gb Ssd 256gb 13,3 Win10 Cuotas
+Category ID: MLA1652
+Category ID: MLA-NOTEBOOKS
+---------------------------------------------------------------------------
+Item ID: MLA795525213
+Item Title: Ups Apc Easy Bv500i-ar 500va Bv500 Gtia Oficial 2 Años
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA680636274
+Item Title: Router Linksys Mimo smart wifi router ac1750 Gamer Rompemuros Dual Band Gtia Oficial - Factura A Y B
+Category ID: MLA430901
+Category ID: MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+---------------------------------------------------------------------------
+Item ID: MLA685442543
+Item Title: Switch Cisco Sg110-24 24 Puertos Gigabit Rack (ex. Sg100-24)
+Category ID: MLA1708
+Category ID: MLA-NETWORK_SWITCHES
+---------------------------------------------------------------------------
+Item ID: MLA724135827
+Item Title: Pc Dell Optiplex I5 8gb 1tb Win10p Ram 3 Años Gtía Oferta
+Category ID: MLA1649
+Category ID: MLA-DESKTOP_COMPUTERS
+---------------------------------------------------------------------------
+Item ID: MLA683834424
+Item Title: Router Cisco Rv160w Wireless Ac Vpn Dualband Usb Oferta
+Category ID: MLA430901
+Category ID: MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+---------------------------------------------------------------------------
+Item ID: MLA664647170
+Item Title: Notebook Dell Latitude I5 8gb 1tb Win 10 Pro
+Category ID: MLA1652
+Category ID: MLA-NOTEBOOKS
+---------------------------------------------------------------------------
+Item ID: MLA723753317
+Item Title: Ups Apc Br900g-ar 900va 6 Tomas Estabilizador Gtia 2 Años
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA800415543
+Item Title: Servidor Rack Dell Poweredge R240 Xeon 8gb 2tb Gtia Cuotas
+Category ID: MLA1649
+Category ID: MLA-DESKTOP_COMPUTERS
+---------------------------------------------------------------------------
+Item ID: MLA607248903
+Item Title: Ups Apc 550va 3 Tomas Gtia Oficial 2 Años Estabilizador Y Protector De Tension Para El Hogar
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA619242948
+Item Title: Router Wifi Linksys Dual Band 600mbps 802.11n Usb
+Category ID: MLA430901
+Category ID: MLA-ROUTERS_AND_WIRELESS_SYSTEMS
+---------------------------------------------------------------------------
+Item ID: MLA860420248
+Item Title: Notebook Gamer I7 Dell G3 15 8g 128ssd + 1tb Gtx1660ti Win10
+Category ID: MLA1652
+Category ID: MLA-NOTEBOOKS
+---------------------------------------------------------------------------
+Item ID: MLA614716924
+Item Title: Ups Apc Br550g-ar Back-ups Pro 550va 230 Estabilizador Br550
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA860403296
+Item Title: Servidor Dell Poweredge R440 Xeon 16gb 2tb Gtia 3 Años
+Category ID: MLA1649
+Category ID: MLA-DESKTOP_COMPUTERS
+---------------------------------------------------------------------------
+Item ID: MLA609714710
+Item Title: Ups Apc 900va Back-ups 6 Tomas Estabilizador Y Protector De Tension Gtia Oficial 2años Br900 Para Tv, Play, Pc
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA665048554
+Item Title: Escaner Kodak Scanmate I940 Portatil De Mano Duplex 20ppm
+Category ID: MLA72721
+Category ID: MLA-SCANNERS
+---------------------------------------------------------------------------
+Item ID: MLA609714711
+Item Title: Ups Apc Back-ups Pro 550va 230 Estabilizador Y Protector De Tensión Con Ahorro De Energia Gtia Oficial Br550
+Category ID: MLA1720
+Category ID: MLA-STABILIZERS_AND_UPS
+---------------------------------------------------------------------------
+Item ID: MLA752633968
+Item Title: Notebook Dell Vostro I5 8gb Ssd 256gb 13,3 Fhd Win10 Pro
+Category ID: MLA1652
+Category ID: MLA-NOTEBOOKS
+---------------------------------------------------------------------------
+*******************************************************************************
+Seller ID: 17957132
+*******************************************************************************
